@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Warm off-white — used as the splash/window background -->
+    <color name="leaf_background">#FAF8F4</color>
+</resources>
